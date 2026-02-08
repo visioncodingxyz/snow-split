@@ -2,7 +2,9 @@
 
 A modern, festive-themed landing page for **$SNOWS**, a revolutionary Solana token that rewards holders automatically through an innovative TaxSplit mechanism.
 
-![SnowSplit Preview](./public/snowball-logo.png)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![Powered by Solana](https://img.shields.io/badge/Powered%20by-Solana-14F195?style=for-the-badge&logo=solana)](https://solana.com)
 
 ## 🎄 Overview
 
